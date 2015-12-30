@@ -1,0 +1,13 @@
+Source: peppermint-info
+Section: admin
+Priority: optional
+Maintainer: Mark Greaves (PCNetSpec) <mark@pcnetspec.co.uk>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: peppermint-info
+Architecture: any
+Provides: peppermint-info
+Depends: 
+Description: Necessary information about the Peppermint release and edition.
+ Base package. This package is needed by the peppermint-system to uniquely identify the edition and release of Peppermint you're using and to get information related to it.

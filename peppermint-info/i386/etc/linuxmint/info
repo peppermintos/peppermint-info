@@ -1,0 +1,10 @@
+RELEASE=6
+CODENAME=trusty
+EDITION="32-bit"
+DESCRIPTION="Peppermint 6"
+DESKTOP=LXDE
+TOOLKIT=GTK
+NEW_FEATURES_URL=http://peppermintos.com/2015/05/peppermint-six-is-here/
+RELEASE_NOTES_URL=http://peppermintos.com/release-notes/
+USER_GUIDE_URL=http://peppermintos.com/guide/
+GRUB_TITLE=Peppermint GNU/Linux
