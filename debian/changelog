@@ -1,3 +1,9 @@
+peppermint-info (0.0.2) xenial; urgency=medium
+
+  * Modified for Peppermint 7
+
+ -- Mark Greaves (PCNetSpec) <mark@pcnetspec.co.uk>  Sun, 03 Apr 2016 23:47:00 +0000
+
 peppermint-info (0.0.1) trusty; urgency=medium
 
   * Modified for Peppermint 6

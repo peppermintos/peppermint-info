@@ -1,10 +1,10 @@
-RELEASE=6
-CODENAME=trusty
+RELEASE=7
+CODENAME=xenial
 EDITION="64-bit"
-DESCRIPTION="Peppermint 6"
+DESCRIPTION="Peppermint 7"
 DESKTOP=LXDE
 TOOLKIT=GTK
-NEW_FEATURES_URL=http://peppermintos.com/2015/05/peppermint-six-is-here/
+NEW_FEATURES_URL=http://peppermintos.com/new-features/
 RELEASE_NOTES_URL=http://peppermintos.com/release-notes/
 USER_GUIDE_URL=http://peppermintos.com/guide/
 GRUB_TITLE=Peppermint GNU/Linux
